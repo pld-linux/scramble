@@ -1,5 +1,5 @@
 Summary:	Simple application to encrypt files
-Summary(pl):	Prosta aplikacja do szyfrowania plików
+Summary(pl.UTF-8):   Prosta aplikacja do szyfrowania plikÃ³w
 Name:		scramble
 Version:	4.5.0
 Release:	1
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Scramble is the tool used by the Xffm-filemanager to encrypt and
 decrypt files.
 
-%description -l pl
-Scramble jest narzêdziem u¿ywanym przez Xffm-filemanager do
-szyfrowania i rozszyfrowywania plików.
+%description -l pl.UTF-8
+Scramble jest narzÄ™dziem uÅ¼ywanym przez Xffm-filemanager do
+szyfrowania i rozszyfrowywania plikÃ³w.
 
 %prep
 %setup -q
