@@ -1,5 +1,5 @@
 Summary:	Simple application to encrypt files
-Summary(pl.UTF-8):   Prosta aplikacja do szyfrowania plików
+Summary(pl.UTF-8):	Prosta aplikacja do szyfrowania plików
 Name:		scramble
 Version:	4.5.0
 Release:	1
